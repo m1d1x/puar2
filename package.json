@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "TOKEN": "OTczNDA5NDQzNDA2NTczNTg4.GWT_J4.4Qf3Doy169IQFDjw0iuJlbZb9UUn61nBdi64rM",
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
